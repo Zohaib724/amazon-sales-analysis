@@ -132,7 +132,7 @@ This dashboard focuses on the overall sales performance of the business. It prov
 
 This dashboard focuses on product category performance and geographical analysis. It helps understand how different product categories perform and how sales and orders are distributed across different geographical locations.
 
-![Category & Geographic Analysis Dashboard](Dashboard/Category & Geographic Analysis.png)
+![Category & Geographic Analysis Dashboard](Dashboard/Category%20%26%20Geographic%20Analysis.png)
 
 ---
 
