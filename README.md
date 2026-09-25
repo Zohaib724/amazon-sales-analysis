@@ -118,13 +118,21 @@ Available geographical information was analyzed to understand the distribution o
 
 ## Dashboard
 
-The project includes a dashboard created from the analyzed Amazon sales data.
+The project includes two dashboards that provide a visual analysis of Amazon sales data from different perspectives.
 
-The dashboard provides a visual overview of important sales metrics, trends, and product/category performance.
+### 1. Sales Analysis Dashboard
 
-### Dashboard Preview
+This dashboard focuses on the overall sales performance of the business. It provides an overview of important sales metrics, sales trends, order performance, and other key sales-related insights.
 
-![Amazon Sales Dashboard](Dashboard/Sales%20Overview%20Dashboard.png)
+![Sales Analysis Dashboard](Dashboard/Sales_Analysis_Dashboard.png)
+
+---
+
+### 2. Category & Geographic Analysis Dashboard
+
+This dashboard focuses on product category performance and geographical analysis. It helps understand how different product categories perform and how sales and orders are distributed across different geographical locations.
+
+![Category & Geographic Analysis Dashboard](Dashboard/Category & Geographic Analysis.png)
 
 ---
 
