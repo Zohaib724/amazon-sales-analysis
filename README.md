@@ -124,7 +124,7 @@ The project includes two dashboards that provide a visual analysis of Amazon sal
 
 This dashboard focuses on the overall sales performance of the business. It provides an overview of important sales metrics, sales trends, order performance, and other key sales-related insights.
 
-![Sales Analysis Dashboard](Dashboard/Sales_Analysis_Dashboard.png)
+![Amazon Sales Dashboard](Dashboard/Sales%20Overview%20Dashboard.png)
 
 ---
 
