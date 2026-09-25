@@ -80,7 +80,7 @@ The original dataset is available in:
 
 A processed version of the dataset is available in:
 
-`Amazon_Sale_Report_modified.csv`
+`Amazon_Sales_Dataset_Modified - Final_Amazon_Data.csv`
 
 ---
 
@@ -124,7 +124,7 @@ The dashboard provides a visual overview of important sales metrics, trends, and
 
 ### Dashboard Preview
 
-![Amazon Sales Dashboard](Dashboard/Dashboard_Overview.png)
+![Amazon Sales Dashboard](Dashboard/Sales%20Overview%20Dashboard.png)
 
 ---
 
