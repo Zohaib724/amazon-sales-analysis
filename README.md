@@ -169,3 +169,10 @@ Amazon-Sales-Analysis/
 ├── Raw_Dataset_Amazon_Sale_Report.csv
 │
 └── README.md
+```
+
+---
+
+## Conclusion
+
+This project provides meaningful insights into Amazon sales data by analyzing sales performance, product categories, order patterns, and geographical distribution. The analysis and dashboards help present the data in a clear and structured way, making it easier to understand key trends and support data-driven decision-making.
